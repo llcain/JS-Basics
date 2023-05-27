@@ -1,0 +1,30 @@
+h2 {
+    color: green;
+    font-size: 1.3rem;
+    font-weight: lighter;
+}
+
+p {
+    border: 2px solid orangered;
+    margin: 50px;
+}
+
+body {
+    background-image: url(./images/sunset1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#container {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    background: yellow;
+}
+
+#animate {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    background: red;
+}
