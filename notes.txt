@@ -62,3 +62,4 @@ Google - how to fetch data from api and display in html - https://www.tutsmake.c
 Google -  - https://learn.microsoft.com/en-us/aspnet/core/tutorials/web-api-javascript?view=aspnetcore-7.0 - https://learn.microsoft.com/en-us/aspnet/core/tutorials/web-api-javascript?view=aspnetcore-7.0
 Google - todo api 
 Google - sass w3schools
+Google - TypeError: Cannot read properties of null (reading 'appendChild') - https://stackoverflow.com/questions/30014090/uncaught-typeerror-cannot-read-property-appendchild-of-null - Had to update class to id 
