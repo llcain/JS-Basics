@@ -59,4 +59,4 @@ Google - web developer resume template codepen - https://codepen.io/Taluska/pen/
 Google - free api to use for testing - https://apipheny.io/what-is-an-api/ - https://apipheny.io/free-api/#how-to-use-free-apis - https://jsonplaceholder.typicode.com/ - https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 Google - how to fetch data from api -  https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 Google - how to fetch data from api and display in html - https://www.tutsmake.com/fetch-and-display-data-from-api-in-react-js/ - https://www.tutsmake.com/fetch-and-display-data-from-api-in-react-js/
-Google -  - https://learn.microsoft.com/en-us/aspnet/core/tutorials/web-api-javascript?view=aspnetcore-7.0
+Google -  - https://learn.microsoft.com/en-us/aspnet/core/tutorials/web-api-javascript?view=aspnetcore-7.0 - https://learn.microsoft.com/en-us/aspnet/core/tutorials/web-api-javascript?view=aspnetcore-7.0
