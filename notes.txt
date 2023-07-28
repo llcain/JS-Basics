@@ -63,3 +63,4 @@ Google -  - https://learn.microsoft.com/en-us/aspnet/core/tutorials/web-api-java
 Google - todo api 
 Google - sass w3schools
 Google - TypeError: Cannot read properties of null (reading 'appendChild') - https://stackoverflow.com/questions/30014090/uncaught-typeerror-cannot-read-property-appendchild-of-null - Had to update class to id 
+Google - how to write comments in javascript? - https://brainstation.io/learn/javascript/comment#:~:text=In%20JavaScript%2C%20a%20single%20line,using%20two%20forward%20slashes%20%2F%2F%20.
