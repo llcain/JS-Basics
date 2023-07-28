@@ -22,3 +22,27 @@ if (tempurature > 5) {
     document.body.style.backgroundColor = "purple";
 }
 
+
+
+
+// loop through an array and display elements in html 
+/*
+Steps
+1. declare array 
+2. loop through array 
+3. append index of array elements to li 
+4. append li to ul
+*/ 
+// declare array of integers
+
+let numbers = [1, 5, 6];
+
+for (let i = 0; i < numbers.length; i++) {
+    let ul = document.createElement('ul');
+    let li = document.createElement('li');
+    li += numbers[i];
+    ul = document.appendChild('li');
+    body.appendChild('ul');
+}
+
+
