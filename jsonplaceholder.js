@@ -17,6 +17,7 @@ fetch('./data/employees.json')
 
     function appendData(data) {
         let li = document.createElement('li');
+        document.appendChild('li')
         
     }
 
