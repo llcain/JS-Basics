@@ -1,0 +1,29 @@
+{
+    "jobs": [
+        {
+            "id": 1,
+            "name": "Belleville",
+            "publication": "McClathy"
+        },
+        {
+            "id": 2,
+            "name": "Independence",
+            "publication": "Cherry Road"
+        },
+        {
+            "id": 3,
+            "name": "Laclede",
+            "publication": "Lebanon Publishing"
+        },
+        {
+            "id": 4,
+            "name": "Life and Comics",
+            "publication": "Springfield"
+        },
+        {
+            "id": 5,
+            "name": "Weekly Trader",
+            "publication": "Lebanon Publishing"
+        }
+    ]
+}

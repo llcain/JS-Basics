@@ -14,4 +14,8 @@ let person = {
 };
 console.log(firstName + " " + lastName);
 
-document.getElementById('demo').innerHTML = person.age;
+
+
+fetch("db.json")
+    .then((response) => response.json())
+    .then((json) => console.log(json));
