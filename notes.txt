@@ -1,0 +1,61 @@
+mapping through array of colors to change the background color of a div with onclick - loop to next on click - http://jsfiddle.net/pYM38/17/ 
+stackover - https://stackoverflow.com/questions/23818675/change-background-color-with-a-loop-onclick
+Google - onclick function iterating through array to change background color of a div - https://css-tricks.com/forums/topic/function-that-changes-bgcolor-onclick/
+Google - shift() and push() of the function
+Google - padding w3schools - https://www.w3schools.com/css/css_padding.asp
+
+12/18/22
+
+Headline made with HTML - https://codepen.io/rcyou/pen/QEObEZ
+
+CSS padding
+The CSS padding generate space around the element's content, but inside of any defined borders
+
+Padding - Individual Sides
+
+CSS has properties for specifying the padding for each side of an element:
+
+1. padding-top
+2. padding-right
+3. padding-bottom
+4.padding-left
+
+jQuery
+
+Javascript Library
+Simplifies Javascript programming
+Easy to learn
+
+Google: "onclick jQuery button" - https://api.jquery.com/click/
+
+Link to jQuery cdn in website head section below link CSS and/or SaSS
+1. <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+2. <script src="https://code.jquery.com/jquery-3.5.0.js"></scrip
+
+Blog creation ewebsite ideas - https://blog.codepen.io/ - Google - "blog codepen"
+React w3schools - https://www.w3schools.com/react/default.asp
+
+https://www.codingthesmartway.com/
+MERN Stack - https://www.codingthesmartway.com/the-mern-stack-tutorial-building-a-react-crud-application-from-start-to-finish-part-2/ - https://medium.com/codingthesmartway-com-blog/the-mern-stack-tutorial-building-a-react-crud-application-from-start-to-finish-part-1-d8d701c2995
+Google - "blog card codepen" - https://codepen.io/abhishekdana/pen/yWQWWp - https://codepen.io/cristinaconacel/pen/dgmjKK
+
+Responsive Blog Card Design
+Google - "blog card codepen" - https://codepen.io/bbosmedia/full/BazjEMv - https://codepen.io/bbosmedia/pen/BazjEMv
+Google - "article card codepen" - https://codepen.io/tag/article%20card - https://codepen.io/andreyknabbenn/pen/MoqOVz
+Google - "margin and padding w3schools" - 
+
+Google - "react mongodb express project codepen"
+
+Google - "pokemon images api codepen" - https://codepen.io/tag/pokeapi - https://codepen.io/SaketKothari/pen/rNmweEv - https://codepen.io/clementbellier/pen/poaGwqP
+Google - addeventlistener hamburger menu toggle -  "https://medium.com/@codefoxx/how-to-create-a-responsive-hamburger-menu-with-html-css-javascript-4dc10a45d3" - "https://community.codenewbie.org/ljc_dev/easy-hamburger-menu-with-js-beginners-2dh0" - "https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_mobile_navbar" 
+Google - Vanilla JavaScript hamburger menu - "https://codepen.io/AlHakem/pen/pKoEYp"
+Google - for loops w3schools - https://www.w3schools.com/js/js_loop_for.asp
+Google - JavaScript DOM w3schools - https://www.w3schools.com/js/js_htmldom_document.asp
+Google - Google HTML attributes - https://www.w3schools.com/html/html_attributes.asp
+Google - Google HTML element - https://www.w3schools.com/html/html_elements.asp
+hello, i'm new to react, i'm searching how i can update an icon in a sidebar component when user click on a link in the navbar component i would like to update the active icon in the sidebar from this click
+Google - DOM animations - https://www.w3schools.com/js/js_htmldom_animate.asp
+Google - web developer resume template codepen - https://codepen.io/Taluska/pen/YzjWKXP - https://codepen.io/tag/resume
+Google - free api to use for testing - https://apipheny.io/what-is-an-api/ - https://apipheny.io/free-api/#how-to-use-free-apis - https://jsonplaceholder.typicode.com/ - https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+Google - how to fetch data from api -  https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+Google - how to fetch data from api and display in html - https://www.tutsmake.com/fetch-and-display-data-from-api-in-react-js/ - https://www.tutsmake.com/fetch-and-display-data-from-api-in-react-js/
