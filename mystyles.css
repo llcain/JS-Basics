@@ -1,16 +1,4 @@
-#changeMe {
-    width: 400px;
-    height: 400px;
-    background: red;
-    margin: 30px auto;
-}
 
-#colors {
-    width: 400px;
-    height: 400px;
-    background: green;
-    margin: 30px auto;
-}
 
 body {
     text-align: center;
