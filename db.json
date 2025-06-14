@@ -24,6 +24,11 @@
             "id": 5,
             "name": "Weekly Trader",
             "publication": "Lebanon Publishing"
+        },
+        {
+            "id": 6,
+            "name": "Boonville",
+            "publication": "Cherry Road"
         }
     ]
 }
