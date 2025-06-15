@@ -16,9 +16,4 @@ function isEmptyString(some_string) {
 console.log(isEmptyString("Bob"));
 console.log(isEmptyString(""));
 
-function findMin() {
-    // findMin([5, 2, 9, 8, 7. 3]) -> 2
-    // findMin([5, 8, 9, 8, 7. 3]) -> 3
 
-    
-}
