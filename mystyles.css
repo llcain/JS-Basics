@@ -15,4 +15,21 @@
 body {
     text-align: center;
     background-color: burlywood;
+    font-size: 30px;
+}
+
+button {
+    background-color: green;
+    color:  white;
+}
+
+.top-box {
+    width: 450px;
+    height: 450px;
+    background-color: blueviolet;
+    padding: 20px;   
+}
+
+div.top-box {
+    margin: auto;
 }
