@@ -11,14 +11,17 @@
 
  */
  
-fetch('./data/employees.json')
-    .then(response => response.json())
-    .then((json) => console.log(json));
+fetch('employees.json')
+  .then(response => response.json())
+  .then(data => {
+    console.log(data); // see data in console
 
-    function appendData(data) {
-        let li = document.createElement('li');
-        document.appendChild('li')
-        
-    }
+    data.forEach(employee => {
+      console.log(employee.name);
+    });
+  })
+  .catch(error => {
+    console.error('Error fetching data:', error);
+  });
 
     
